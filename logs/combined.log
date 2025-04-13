@@ -1,0 +1,14 @@
+[90m[2025-04-13 01:02:43][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:02:57][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:03:12][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:03:29][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:04:20][39m [91mERROR[39m: Database connected failed: Error: queryTxt ETIMEOUT cluster0.5k8fjwy.mongodb.net
+[90m[2025-04-13 01:04:52][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:04:53][39m [94mINFO[39m: Database connected successfully
+[90m[2025-04-13 01:34:58][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 01:49:52][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 02:30:45][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 02:31:17][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 02:31:18][39m [94mINFO[39m: Database connected successfully
+[90m[2025-04-13 02:31:25][39m [94mINFO[39m: Server running on port 8900 in development mode
+[90m[2025-04-13 02:31:32][39m [94mINFO[39m: Database connected successfully
